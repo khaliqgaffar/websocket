@@ -5,7 +5,7 @@
   <display-name>Archetype Created Web Application</display-name>
   <servlet>
     <servlet-name>HelloHtml5</servlet-name>
-    <servlet-class>org.ajeesh.app.Html5Servlet</servlet-class>
+    <servlet-class>com.emirates.Html5Servlet</servlet-class>
   </servlet>
   <servlet-mapping>
     <servlet-name>HelloHtml5</servlet-name>
